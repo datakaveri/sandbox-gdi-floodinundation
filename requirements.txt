@@ -1,0 +1,4 @@
+pysheds
+matplotlib
+seaborn
+rioxarray
