@@ -1,5 +1,0 @@
-gdal
-pysheds
-matplotlib
-seaborn
-rioxarray
